@@ -218,7 +218,7 @@ body {
   display: flex;
   flex-direction: column;
   /* align-items: center; */
-  background-image: url("/images/Week02_HW_01.png");
+  background-image: url(images/Week02_HW_01.png);
   background-size: contain;
   width: 1920px;
   height: 958px; /* 搞不定圖片大小、暫寫死 */
