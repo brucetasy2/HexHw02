@@ -394,7 +394,7 @@ body {
 /* 4 */
 .works {
   width: 1920px;
-  background-image: url(../images/Week02_HW_04_00.png);
+  background-image: url(./images/Week02_HW_04_00.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center bottom;
